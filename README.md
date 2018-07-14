@@ -1,5 +1,7 @@
 # Lua-Code-Analysis-notes
-Lua代码分析笔记
+##Lua代码分析笔记
+
+!结构图(MainStruct.png)
 
 文件格式组织如下:
 
